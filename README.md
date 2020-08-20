@@ -2,5 +2,5 @@
 This notebook provides the helpful algorithms
 
 Algorithm content:
-Quick find
-Quick-Union
+1. Quick find
+2. Quick-Union
