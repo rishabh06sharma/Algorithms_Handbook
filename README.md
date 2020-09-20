@@ -1,7 +1,7 @@
 # Algorithms
-This notebook provides the helpful algorithms
+This notebook provides the helpful algorithms and data structures
 
-Algorithm content:
+Content:
 1. Quick find
 2. Quick-Union
 3. Weighted Quick-Union
