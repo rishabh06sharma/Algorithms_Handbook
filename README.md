@@ -13,3 +13,4 @@ Algorithm content:
 9. Binary search tree
 10. Breath first search
 11. Hash tables (Linked list)
+12. Selected sort
