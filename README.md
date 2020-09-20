@@ -1,5 +1,5 @@
 # Algorithms
-This notebook provides the helpful algorithms
+This notebook provides the helpful algorithms and data structures
 
 Algorithm content:
 1. Quick find
