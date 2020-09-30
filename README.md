@@ -14,3 +14,7 @@ Content:
 10. Breath first search
 11. Hash tables (Linked list)
 12. Selected sort
+13. Insertion sort
+14. Shell sort
+15. Knuth sort (shuffle)
+16. Graham scan
